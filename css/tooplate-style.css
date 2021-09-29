@@ -91,8 +91,26 @@ b, strong {
   overflow: hidden;
   transition: all 0.4s ease;
 }
+.custom-btns {
+  background: #ffc200;
+  color: #5b5b5b;
+  font-weight: bold;
+  border-radius: 50px;
+  padding: 13px 29px;
+  font-size: 14px;
+  line-height: normal;
+  overflow: hidden;
+  transition: all 0.4s ease;
+}
+.custom-btns:hover {
+  background: #eee;
+  color: #eee;
+}
 .custom-btn:hover {
   color: #ffc200;
+}
+.custom-btns:hover {
+  color: #eee;
 }
 .custom-btn.custom-btn-bg {
   background: #474559;
