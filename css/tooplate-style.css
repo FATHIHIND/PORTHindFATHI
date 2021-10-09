@@ -484,6 +484,16 @@ b, strong {
   color: #ffc200;
 }
 
+#section_game
+{
+  background-color: #ffc200;
+}
+* { padding: 0; margin: 0; }
+    	canvas { background: #eee; display: block; margin: 0 auto; }
+      #h1
+      {
+        color: white;
+      }
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
