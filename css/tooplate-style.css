@@ -25,10 +25,7 @@ body {
   border-radius: 50px;
   letter-spacing: 0.2px;
 }
-.responsive {
-  width: 100%;
-  height: auto;
-}
+
 ul {
   margin: 0;
   padding: 0;
@@ -82,7 +79,10 @@ h3,
 b, strong {
   font-weight: bold;
 }
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
 .custom-btn {
   background: #eee;
   color: #5b5b5b;
