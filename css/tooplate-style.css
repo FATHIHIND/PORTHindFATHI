@@ -83,6 +83,10 @@ b, strong {
   width: 100%;
   height: auto;
 }
+.responsives {
+  width: 480%;
+  height: auto;
+}
 .custom-btn {
   background: #eee;
   color: #5b5b5b;
